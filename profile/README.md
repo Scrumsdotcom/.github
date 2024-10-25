@@ -1,4 +1,4 @@
-![scrumsdotcom_cover](https://github.com/user-attachments/assets/806af643-2a57-4ccd-b773-3bd9a83c9a90)
+![378378792-806af643-2a57-4ccd-b773-3bd9a83c9a90](https://github.com/user-attachments/assets/b9624df3-2b73-41f8-940e-a16a7b3425a3)
 
 # Scrums.com
 
