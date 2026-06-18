@@ -1,35 +1,98 @@
-![378378792-806af643-2a57-4ccd-b773-3bd9a83c9a90](https://github.com/user-attachments/assets/b9624df3-2b73-41f8-940e-a16a7b3425a3)
 
-# Scrums.com
+<h1 align="center">Scrums.com</h1>
+<p align="center"><strong>Software Engineering. Sorted.™</strong></p>
 
-**Scrums.com** Engineering designs and operates reliable, secure, efficient, and cost-effective systems in the cloud.
+<p align="center">
+  The world's first Software Engineering Orchestration Platform (SEOP) — unifying human
+  teams, AI agents, and real-time intelligence in one platform, so businesses ship custom
+  software <strong>3x faster</strong>, with certainty.
+</p>
 
-Trusted by 400+ companies, **Scrums.com** helps businesses scale with our cloud-based engineering subscription platform, offering consistent, cost-effective AI-powered software development, expert teams and reliable developer analytics.
+<p align="center">
+  <a href="https://www.scrums.com/platform">Platform</a> ·
+  <a href="https://www.scrums.com/ai-agent-platform">AI Agent Gateway</a> ·
+  <a href="https://www.scrums.com/analytics">Developer Intelligence</a> ·
+  <a href="https://www.scrums.com/case-studies">Case Studies</a> ·
+  <a href="https://www.scrums.com/careers">Careers</a>
+</p>
 
-With 13 years of trailblazing delivery across 5 global offices and an 8,500-strong AI-vetted talent pool, **Scrums.com** is the top English-speaking partner for growth-focused companies, agencies and enterprises.
+---
 
-Proudly born out of Africa, **Scrums.com** is now shaping the future of global software development. AI-powered engineering teams. Scaled.
+### What we do 🧭
 
-### Contributing Guidelines 🦮
+Traditional tools track tasks. **Scrums.com orchestrates your entire engineering
+operation** — unifying teams, tools, AI agents, and workflows into one platform that
+predicts bottlenecks and proves ROI.
 
-Our Contribution guidelines serve to standardise the contribution process, maintain code quality, establish a clear workflow for submitting and reviewing changes, foster an inclusive environment, and ensure the long-term maintainability of the project.
+- **Unified engineering layer** — connect tools you already use into one command center. No context switching.
+- **AI agents automate the overhead** — code review, testing, and documentation, handled.
+- **Developer intelligence dashboards** — track velocity, cycle time, team output, and ROI on AI tools.
 
-These guidelines help project maintainers efficiently review and incorporate contributions while upholding the integrity of the codebase through adherence to best practices. Well-defined contribution guidelines facilitate effective collaboration among the project's contributors.
+Trusted by **400+ companies** and Fortune 2000 leaders, with **over a decade** of delivery since 2012.
 
-### RDSA 🐥
+### The Platform (SEOP) 🧩
 
-The Rubber Ducking Self Assessment (RDSA)
+The [**Software Engineering Orchestration Platform**](https://www.scrums.com/platform) is the
+command center that ties it all together — AI agents, teams, talent, analytics, your DevOps
+stack, integrations, security, observability, workflows & APIs in one place.
 
-Our teams utilize RDSA as a continuous self-assessment to improve project health and compliance throughout the development lifecycle.
+➡️ [Explore the Platform](https://www.scrums.com/platform)
 
-### SonarCloud 🌥️
+### Orchestrate Talent 👥
 
-We use SonarCloud to drive consistent code quality and standards across the whole organisation. It is a cloud-based static code quality and security analysis platform that helps developers identify and address issues in their codebase.
+Pre-vetted engineers who integrate with your stack and start shipping in 21 days, not 6 months.
 
-### Core 🍏
+- [Dedicated Teams](https://www.scrums.com/products/dedicated)
+- [Tech / Staff Augmentation](https://www.scrums.com/products/augmented)
 
-The Core team is dedicated to ensuring that our CORE Operating Model remains effective and efficient, whilst maintaining a positive Developer Experience (DX).
+### Orchestrate Products 🚀
 
-### [Inspired by what we do? Join our team](https://www.scrums.com/careers)! ✨
+End-to-end delivery handled by Scrums.com, from first sprint to production and beyond.
 
-We're always on the lookout for passionate individuals who are excited about shaping the future of cloud-based engineering. [Explore open roles](https://www.scrums.com/careers) and become part of our mission to build #world-class, scalable solutions for businesses worldwide.
+- [Project Delivery Squads](https://www.scrums.com/products/product-development-as-a-service)
+- [Outcome-Driven Sprints](https://www.scrums.com/products/on-demand)
+- [Reliability Services](https://www.scrums.com/products/platform-maintenance)
+
+### Orchestrate Systems ⚙️
+
+The intelligence and infrastructure layer underneath your delivery.
+
+- [AI Agent Gateway](https://www.scrums.com/ai-agent-platform)
+- [Developer Intelligence SaaS](https://www.scrums.com/analytics)
+- [Infrastructure Cloud](https://www.scrums.com/products/infra)
+
+### AI Agent Gateway 🤖
+
+The [**AI Agent Gateway**](https://www.scrums.com/ai-agent-platform) is our agent harness — it
+combines your **organisational context** (codebases, standards, delivery history) with
+**agent workflows**, so AI agents act with the same context your engineers have. Access every
+leading agent across your delivery pipeline through one subscription, with full visibility
+into performance and cost. ROtate models across providers as the world evolves, but keep your context consistent. 
+
+### Tools our teams use 🧰
+
+We build with the best of agentic and AI-assisted engineering, orchestrated through Scrums.com:
+
+- **[Devin.ai](https://devin.ai)** — autonomous agent for issue-to-merge delivery
+- **[Claude Code](https://www.anthropic.com/claude-code)** — agentic coding in the terminal
+- **[Cursor](https://cursor.com)** — AI-native code editor
+- **[Codex](https://openai.com/codex)** — OpenAI's software engineering agent
+
+### Join us ✨
+
+We're always looking for people excited to shape the future of AI-orchestrated engineering.
+**[Explore open roles →](https://www.scrums.com/careers)**
+
+---
+
+<p align="center">
+  <a href="https://www.scrums.com/sign-up"><strong>🚀 Deploy Scrums.com</strong></a> ·
+  <a href="https://www.scrums.com/start-a-project">Book a Demo</a>
+</p>
+
+<p align="center">
+  <a href="https://www.scrums.com">scrums.com</a> ·
+  <a href="https://www.linkedin.com/company/scrumsdotcom">LinkedIn</a> ·
+  <a href="https://x.com/scrumsdotcom">X</a> ·
+  <a href="mailto:hello@scrums.com">hello@scrums.com</a>
+</p>
